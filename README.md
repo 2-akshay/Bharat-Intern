@@ -5,3 +5,9 @@ language: HTML/CSS
 
 IDE: VS Code
 
+2: Wather Websiteb :nnovatively crafted a weather website with real-time updates, delivering accurate and current forecasts to users instantly. Implemented intuitive interactive maps for dynamic exploration of weather patterns, enhancing user engagement and comprehension. Engineered personalized alert systems for location-based notifications, prioritizing user safety and proactive weather awareness.
+
+Language: HTML/CSS,Javascript
+
+IDE: VS code
+
